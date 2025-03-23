@@ -1,5 +1,8 @@
-pdfplumber
+
 pandas
 numpy
 folium
 flask
+gunicorn
+pdfplumber
+
