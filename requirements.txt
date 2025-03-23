@@ -1,0 +1,6 @@
+pdfplumber
+pandas
+numpy
+folium
+os
+flask
